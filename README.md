@@ -1,2 +1,3 @@
 # numerology-app
-
+Intuitive
+guide
